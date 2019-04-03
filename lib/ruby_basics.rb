@@ -8,7 +8,7 @@ def assign_variable(value)
   puts ("#{value}")
 end
 
-assign_variable("Bob")
+assign_variable(Bob)
 
 def argue
 
