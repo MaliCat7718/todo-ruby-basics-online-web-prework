@@ -4,7 +4,7 @@ end
 
 division(42, 7)
 
-def assign_variable(value)
+def assign_variable("value")
   puts ("#{value}")
 end
 
