@@ -5,11 +5,11 @@ end
 division(42, 7)
 
 def assign_variable(value)
-  
+
 end
 
 def argue
-  
+
 end
 
 def greeting
