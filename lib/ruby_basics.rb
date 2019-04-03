@@ -5,7 +5,7 @@ end
 division(42, 7)
 
 def assign_variable(value)
-  puts "#{value}"
+  return "#{value}"
 end
 
 assign_variable(Bob)
